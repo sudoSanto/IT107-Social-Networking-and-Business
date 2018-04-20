@@ -4,10 +4,11 @@ IT107 Social Networking and Business
 
 This course is an introduction to social media, communication and collaboration tools utilized professionally in a business environment.  Students will learn to set up, use, and support these tools.  Emphasis will be placed on proper business communication, development of a personal resume, and the implementation of a professional persona using social media that supports work within the information technology field.
 
-
-Wordpress
+**Blog Final**\
+*Wordpress*\
 https://sudosanto.wordpress.com/
 
+*Final Presentation is forthcoming.  Needs to be converted into a format that can be uploaded to GitHub.*
 
 <br/>
 
